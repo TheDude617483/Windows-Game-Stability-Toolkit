@@ -66,15 +66,3 @@ The project aims to grow into a community‑driven toolkit that improves stabili
 🟢 Status
 Actively maintained.
 More tools and guides will be added regularly.
-
-📁 Repository Structure
-
-Windows-Game-Stability-Toolkit/
-│
-├── tools/
-│   └── check_system.ps1
-│
-├── docs/
-│   └── gta5_crash_guide.md
-│
-└── README.md
